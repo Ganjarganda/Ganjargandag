@@ -2,7 +2,7 @@
     Inherits System.Web.UI.Page
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-        Label1.Text = "Selamat Datang haha"
+        Label1.Text = "Selamat Datang,mmlm l k haha"
     End Sub
 
 End Class
